@@ -1,4 +1,4 @@
-**Versiebeheer**
+<h2>Versiebeheer</h2>
 
 Dit document is aan verandering onderhevig. Het versiebeheer van het document
 geeft inzicht in wijzigen en de actualiteit ervan.
